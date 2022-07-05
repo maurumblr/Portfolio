@@ -9,9 +9,9 @@ const Header = () => {
   return (
     <header>
       <div className="container header__container">
-        <h5>Hello I'm</h5>
+        <h5>Hi there, I'm</h5>
         <h1>Mauricio Fara</h1>
-        <h5 className="text-light">Fullstack Developer</h5>
+        <h5 className="text-light">Fullstack Developer working with Django and React</h5>
         <ButtonCTA />
         <div className='header__container-bottom'>
           <HeaderSocials />

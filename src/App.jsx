@@ -3,8 +3,8 @@ import React from 'react'
 import Header from './components/header/Header'
 import Nav from './components/Nav'
 import About from './components/About'
-import Experience from './components/Experience'
-import Projects from './components/Projects'
+import Skills from './components/Skills'
+import Projects from './components/projects/Projects'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 
@@ -15,8 +15,8 @@ const App = () => {
       <Header />      
       <Nav />
       <About />
-      <Experience />
       <Projects />
+      <Skills />
       <Contact />
       <Footer />
     </>
