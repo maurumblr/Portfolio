@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.10fd5bd3.css",
-    "main.js": "/Portfolio/static/js/main.4c38aeaa.js",
+    "main.js": "/Portfolio/static/js/main.87cd0733.js",
     "static/media/CV - Mauricio Fara EN (Developer).pdf": "/Portfolio/static/media/CV - Mauricio Fara EN (Developer).15cea05b2448c9ecca16.pdf",
-    "static/media/reminders.png": "/Portfolio/static/media/reminders.6fca34ee0fc7593d8ea2.png",
     "static/media/me.png": "/Portfolio/static/media/me.f28f8606ab5e86deea0a.png",
+    "static/media/reminders.png": "/Portfolio/static/media/reminders.9a7a46024c5f72d92509.png",
     "static/media/buscandog.png": "/Portfolio/static/media/buscandog.4343bbf2ba0a23ddd1f1.png",
     "static/media/greenville.png": "/Portfolio/static/media/greenville.78c5c9299f0eb584707a.png",
     "index.html": "/Portfolio/index.html",
     "main.10fd5bd3.css.map": "/Portfolio/static/css/main.10fd5bd3.css.map",
-    "main.4c38aeaa.js.map": "/Portfolio/static/js/main.4c38aeaa.js.map"
+    "main.87cd0733.js.map": "/Portfolio/static/js/main.87cd0733.js.map"
   },
   "entrypoints": [
     "static/css/main.10fd5bd3.css",
-    "static/js/main.4c38aeaa.js"
+    "static/js/main.87cd0733.js"
   ]
 }
